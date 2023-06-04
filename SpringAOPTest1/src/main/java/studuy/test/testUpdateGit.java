@@ -5,5 +5,6 @@ public class testUpdateGit {
         System.out.println("本地仓库更新了testUpdateGit文件");
         System.out.println("GitHub仓库更新了testUpdateGit文件");
         System.out.println("本地仓库更新了文件");
+        System.out.println("GitHub仓库更新了testUpdateGit文件");
     }
 }
